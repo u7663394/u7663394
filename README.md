@@ -16,7 +16,7 @@
 
 ---
 
-### About Me
+### 👋 About Me
 
 I'm **Guochen Wang** (`u7663394`), an **ANU Bachelor of Advanced Computing (Honours)** student based in **Australia**, with a **Machine Learning Specialisation** and a strong interest in **frontend development**.
 
@@ -28,7 +28,7 @@ I'm **Guochen Wang** (`u7663394`), an **ANU Bachelor of Advanced Computing (Hono
 
 ---
 
-### Currently Focusing On
+### 🎯 Currently Focusing On
 
 - **Working with:** [**Techlauncher-LeafAnalyzer**](https://github.com/Techlauncher-LeafAnalyzer) - contributing to the organization's leaf analysis tools and supporting repositories.
 - **Working on:** [**LGGC-liquid-glass**](https://github.com/u7663394/LGGC-liquid-glass) - a lightweight frontend library for liquid glass UI effects.
@@ -38,7 +38,7 @@ I'm **Guochen Wang** (`u7663394`), an **ANU Bachelor of Advanced Computing (Hono
 
 ---
 
-### Techlauncher-LeafAnalyzer
+### 🍃 Techlauncher-LeafAnalyzer
 
 I am a member of [**Techlauncher-LeafAnalyzer**](https://github.com/Techlauncher-LeafAnalyzer) and participate in the development of all current projects in the organization:
 
@@ -54,7 +54,7 @@ I am a member of [**Techlauncher-LeafAnalyzer**](https://github.com/Techlauncher
 
 ---
 
-### Featured Projects
+### 🚀 Featured Projects
 
 Here are a few projects that represent what I am currently proud of, building, or learning:
 
@@ -88,7 +88,7 @@ Here are a few projects that represent what I am currently proud of, building, o
 
 ---
 
-### Tech Stack
+### 🧰 Tech Stack
 
 <table>
   <tr>
@@ -115,7 +115,7 @@ Here are a few projects that represent what I am currently proud of, building, o
 
 ---
 
-### GitHub Statistics
+### 📊 GitHub Statistics
 [![Guochen's GitHub stats](https://github-stats-extended.vercel.app/api?username=u7663394&show=prs_merged&hide=issues&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=u7663394&hide=scss,css,less,shell&langs_count=6)](https://github.com/u7663394/github-readme-stats)
 
