@@ -18,10 +18,10 @@
 
 ### 👋 About Me
 
-I'm **Guochen Wang** (`u7663394`), an **ANU Bachelor of Advanced Computing (Honours)** student based in **Australia**, with a **Machine Learning Specialisation** and a strong interest in **frontend development**.
+I'm **Guochen Wang** (`u7663394`), an **ANU Bachelor of Advanced Computing (Honours)** student in **Australia**, with a **Machine Learning Specialisation** and a strong interest in **frontend development**.
 
 - **Academic Focus:** Studying advanced computing at ANU with a focus on machine learning, and software engineering.
-- **AI and Computer Vision:** Exploring practical machine learning workflows, computer vision models, contrastive learning, and image analysis experiments.
+- **AI/ML and Computer Vision:** Exploring practical machine learning workflows, computer vision models, contrastive learning, and image analysis experiments.
 - **Frontend Development Enthusiast:** Building Vue, React, and TypeScript applications while caring about clean interfaces and polished user experiences.
 - **Techlauncher-LeafAnalyzer:** Member of [**Techlauncher-LeafAnalyzer**](https://github.com/Techlauncher-LeafAnalyzer), contributing across all current organization projects.
 - **Learning in Public:** Keeping notes, demos, and experiments visible through small repositories and hands-on projects.
@@ -30,11 +30,11 @@ I'm **Guochen Wang** (`u7663394`), an **ANU Bachelor of Advanced Computing (Hono
 
 ### 🎯 Currently Focusing On
 
-- **Working with:** [**Techlauncher-LeafAnalyzer**](https://github.com/Techlauncher-LeafAnalyzer) - contributing to the organization's leaf analysis tools and supporting repositories.
+- **Capstone project:** [**Techlauncher-LeafAnalyzer**](https://github.com/Techlauncher-LeafAnalyzer) - contributing to the organization's leaf analysis tools and supporting repositories through ANU TechLauncher.
 - **Working on:** [**LGGC-liquid-glass**](https://github.com/u7663394/LGGC-liquid-glass) - a lightweight frontend library for liquid glass UI effects.
 - **Building:** [**react-learning-journey**](https://github.com/u7663394/react-learning-journey) - notes, demos, and experiments from my React learning process.
-- **Exploring:** Vue 3 + TypeScript application patterns through admin, management, and mobile consultation projects.
-- **Learning:** Applied machine learning and computer vision through SimCLR and CNN edge prediction experiments.
+- **Exploring:** Vue 3 + TypeScript application patterns through admin, management, and mobile projects with frontend passion.
+- **Learning:** Applied machine learning and computer vision through deep learning like SimCLR and CNN edge prediction experiments.
 
 ---
 
@@ -48,9 +48,9 @@ I am a member of [**Techlauncher-LeafAnalyzer**](https://github.com/Techlauncher
   </a>
 </p>
 
-- [**Leaf-Analyzer-Pattern-Generation**](https://github.com/Techlauncher-LeafAnalyzer/Leaf-Analyzer-Pattern-Generation) - JavaScript project for pattern generation in the leaf analysis workflow.
-- [**AprilTag-Overlay-Tool**](https://github.com/Techlauncher-LeafAnalyzer/AprilTag-Overlay-Tool) - JavaScript tool for overlaying AprilTag-related outputs.
-- [**Leaf-Curvature**](https://github.com/Techlauncher-LeafAnalyzer/Leaf-Curvature) - repository for leaf curvature analysis work.
+- [**Leaf-Analyzer-Pattern-Generation**](https://github.com/Techlauncher-LeafAnalyzer/Leaf-Analyzer-Pattern-Generation) - Web project for pattern generation in the leaf analysis workflow.
+- [**AprilTag-Overlay-Tool**](https://github.com/Techlauncher-LeafAnalyzer/AprilTag-Overlay-Tool) - JavaScript web tool for overlaying AprilTag image outputs.
+- [**Leaf-Curvature**](https://github.com/Techlauncher-LeafAnalyzer/Leaf-Curvature) - ML project for leaf curvature analysis.
 
 ---
 
@@ -92,21 +92,19 @@ Here are a few projects that represent what I am currently proud of, building, o
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td valign="top">
       <strong>Frontend Development</strong><br />
       <img src="https://skillicons.dev/icons?i=vue,react,ts,js,html,css,bootstrap&perline=4" alt="Frontend development skills" />
     </td>
-    <td width="50%" valign="top">
+    <td valign="top">
       <strong>Application Tooling</strong><br />
       <img src="https://skillicons.dev/icons?i=vite,webpack,npm,nodejs,pnpm,pinia,redux&perline=4" alt="Application tooling skills" />
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td valign="top">
       <strong>ML, AI, and CV</strong><br />
-      <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,anaconda,&perline=4" alt="AI and data skills" />
+      <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,anaconda&perline=4" alt="AI and data skills" />
     </td>
-    <td width="50%" valign="top">
+    <td valign="top">
       <strong>Tools and Workflow</strong><br />
       <img src="https://skillicons.dev/icons?i=git,docker,github,vscode,idea,pycharm&perline=4" alt="Tools and workflow skills" />
     </td>
@@ -116,9 +114,32 @@ Here are a few projects that represent what I am currently proud of, building, o
 ---
 
 ### 📊 GitHub Statistics
-[![Guochen's GitHub stats](https://github-stats-extended.vercel.app/api?username=u7663394&show=prs_merged&hide=issues&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=u7663394&hide=scss,css,less,shell&langs_count=6)](https://github.com/u7663394/github-readme-stats)
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img
+        src="https://github-stats-extended.vercel.app/api?username=u7663394&show=prs_merged&hide=issues&show_icons=true&hide_border=true"
+        alt="Guochen's GitHub stats"
+        width="100%"
+        height="200"
+      />
+    </td>
+    <td width="50%" valign="top">
+      <img
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=u7663394&hide=scss,css,less,shell&langs_count=6&hide_border=true"
+        alt="Top Languages"
+        width="100%"
+        height="200"
+      />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=u7663394&theme=github-compact&hide_border=true&color=41B883&point=525252" width="100%" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=u7663394&theme=github-compact&hide_border=true&color=41B883&point=2F2F2F"
+    width="100%"
+    alt="GitHub activity graph"
+  />
 </p>
