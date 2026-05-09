@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=0D9488&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Guochen+Wang;Frontend+Developer+in+Australia;Building+Clean+Web+Interfaces;Exploring+AI+and+Computer+Vision" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=41B883&center=true&vCenter=true&width=860&lines=Hi%2C+I'm+Guochen+Wang;ANU+Advanced+Computing+(Honours);Machine+Learning+Specialisation;Exploring+AI+and+Computer+Vision;Frontend+Development+Enthusiast" alt="Typing introduction" />
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=u7663394&label=Profile%20Views&color=0D9488&style=flat-square" alt="Profile views" />
-    <img src="https://img.shields.io/badge/Location-Australia-0D9488?style=flat-square" alt="Location Australia" />
-    <img src="https://img.shields.io/badge/Techlauncher--LeafAnalyzer-Member-0D9488?style=flat-square&logo=github" alt="Techlauncher-LeafAnalyzer member" />
+    <img src="https://komarev.com/ghpvc/?username=u7663394&label=Profile%20Views&color=41B883&style=flat-square" alt="Profile views" />
+    <img src="https://img.shields.io/badge/Location-Australia-41B883?style=flat-square" alt="Location Australia" />
+    <img src="https://img.shields.io/badge/Techlauncher--LeafAnalyzer-Member-41B883?style=flat-square&logo=github" alt="Techlauncher-LeafAnalyzer member" />
   </p>
 
   <p>
     <a href="https://github.com/u7663394"><img src="https://img.shields.io/badge/GitHub-u7663394-181717?style=flat-square&logo=github" alt="GitHub profile" /></a>
     <a href="mailto:guochenwang710@gmail.com"><img src="https://img.shields.io/badge/Email-guochenwang710%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email guochenwang710@gmail.com" /></a>
-    <a href="https://github.com/Techlauncher-LeafAnalyzer"><img src="https://img.shields.io/badge/Organization-Techlauncher--LeafAnalyzer-0D9488?style=flat-square&logo=github" alt="Techlauncher-LeafAnalyzer organization" /></a>
+    <a href="https://github.com/Techlauncher-LeafAnalyzer"><img src="https://img.shields.io/badge/Organization-Techlauncher--LeafAnalyzer-41B883?style=flat-square&logo=github" alt="Techlauncher-LeafAnalyzer organization" /></a>
   </p>
 </div>
 
@@ -18,13 +18,13 @@
 
 ### About Me
 
-I'm **Guochen Wang** (`u7663394`), a developer based in **Australia** focused on building practical front-end products, clean interaction patterns, and useful AI-assisted experiments.
+I'm **Guochen Wang** (`u7663394`), an **ANU Bachelor of Advanced Computing (Honours)** student based in **Australia**, with a **Machine Learning Specialisation** and a strong interest in applied AI.
 
-- **Frontend Engineering:** Building Vue, React, and TypeScript applications for admin systems, mobile web apps, and product dashboards.
-- **UI Craft:** Exploring modern visual effects, responsive layouts, data visualization, and polished component behavior.
+- **Academic Focus:** Studying advanced computing at ANU with a focus on machine learning, and software engineering.
+- **AI and Computer Vision:** Exploring practical machine learning workflows, computer vision models, contrastive learning, and image analysis experiments.
+- **Frontend Development Enthusiast:** Building Vue, React, and TypeScript applications while caring about clean interfaces and polished user experiences.
 - **Techlauncher-LeafAnalyzer:** Member of [**Techlauncher-LeafAnalyzer**](https://github.com/Techlauncher-LeafAnalyzer), contributing across all current organization projects.
 - **Learning in Public:** Keeping notes, demos, and experiments visible through small repositories and hands-on projects.
-- **Applied AI:** Experimenting with computer vision, contrastive learning, and financial trend analysis using Python-based workflows.
 
 ---
 
@@ -116,8 +116,9 @@ Here are a few projects that represent what I am currently proud of, building, o
 ---
 
 ### GitHub Statistics
+[![Guochen's GitHub stats](https://github-stats-extended.vercel.app/api?username=u7663394&show=prs_merged&hide=issues&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=u7663394&hide=scss,css,less,shell&langs_count=6)](https://github.com/u7663394/github-readme-stats)
 
 <p align="center">
-  <img height="170" src="./profile/stats.svg" alt="Guochen Wang GitHub stats" />
-  <img height="170" src="./profile/top-langs.svg" alt="Guochen Wang top languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=u7663394&theme=github-compact&hide_border=true" width="100%" />
 </p>
