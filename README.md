@@ -3,7 +3,6 @@
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=u7663394&label=Profile%20Views&color=0D9488&style=flat-square" alt="Profile views" />
-    <img src="https://img.shields.io/github/followers/u7663394?label=Followers&style=flat-square&color=0D9488&logo=github" alt="GitHub followers" />
     <img src="https://img.shields.io/badge/Location-Australia-0D9488?style=flat-square" alt="Location Australia" />
     <img src="https://img.shields.io/badge/Techlauncher--LeafAnalyzer-Member-0D9488?style=flat-square&logo=github" alt="Techlauncher-LeafAnalyzer member" />
   </p>
@@ -13,6 +12,7 @@
     <a href="https://github.com/Techlauncher-LeafAnalyzer"><img src="https://img.shields.io/badge/Organization-Techlauncher--LeafAnalyzer-0D9488?style=flat-square&logo=github" alt="Techlauncher-LeafAnalyzer organization" /></a>
   </p>
 </div>
+[![Email](https://img.shields.io/badge/Email-guochenwang710%40gmail.com-red)](mailto:guochenwang710@gmail.com)
 
 ---
 
@@ -56,7 +56,7 @@ I am a member of [**Techlauncher-LeafAnalyzer**](https://github.com/Techlauncher
 
 ### Featured Projects
 
-Here are a few projects that represent what I am currently building and learning:
+Here are a few projects that represent what I am currently pround of and building or learning:
 
 <p align="center">
   <a href="https://github.com/u7663394/LGGC-liquid-glass">
