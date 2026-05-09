@@ -94,21 +94,21 @@ Here are a few projects that represent what I am currently proud of, building, o
   <tr>
     <td width="50%" valign="top">
       <strong>Frontend Development</strong><br />
-      <img src="https://skillicons.dev/icons?i=vue,react,ts,js,html,css,sass&perline=4" alt="Frontend development skills" />
+      <img src="https://skillicons.dev/icons?i=vue,react,ts,js,html,css,bootstrap&perline=4" alt="Frontend development skills" />
     </td>
     <td width="50%" valign="top">
       <strong>Application Tooling</strong><br />
-      <img src="https://skillicons.dev/icons?i=vite,nodejs,npm,pinia,tailwind&perline=4" alt="Application tooling skills" />
+      <img src="https://skillicons.dev/icons?i=vite,webpack,npm,nodejs,pnpm,pinia,redux&perline=4" alt="Application tooling skills" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <strong>ML, AI, and Data</strong><br />
-      <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn&perline=4" alt="AI and data skills" />
+      <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,anaconda,&perline=4" alt="AI and data skills" />
     </td>
     <td width="50%" valign="top">
       <strong>Tools and Workflow</strong><br />
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash&perline=4" alt="Tools and workflow skills" />
+      <img src="https://skillicons.dev/icons?i=git,docker,github,vscode,idea,pycharm&perline=4" alt="Tools and workflow skills" />
     </td>
   </tr>
 </table>
