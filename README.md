@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=41B883&center=true&vCenter=true&width=860&lines=Hi%2C+I'm+Guochen+Wang;ANU+Advanced+Computing+(Honours);Machine+Learning+Specialisation;Exploring+AI+and+Computer+Vision;Frontend+Development+Enthusiast" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=900&color=41B883&center=true&vCenter=true&width=860&lines=Hi%2C+I'm+Guochen+Wang;ANU+Advanced+Computing+(Honours);Machine+Learning+Specialisation;Exploring+AI+and+Computer+Vision;Frontend+Development+Enthusiast" alt="Typing introduction" />
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=u7663394&label=Profile%20Views&color=41B883&style=flat-square" alt="Profile views" />
@@ -18,7 +18,7 @@
 
 ### About Me
 
-I'm **Guochen Wang** (`u7663394`), an **ANU Bachelor of Advanced Computing (Honours)** student based in **Australia**, with a **Machine Learning Specialisation** and a strong interest in applied AI.
+I'm **Guochen Wang** (`u7663394`), an **ANU Bachelor of Advanced Computing (Honours)** student based in **Australia**, with a **Machine Learning Specialisation** and a strong interest in **frontend development**.
 
 - **Academic Focus:** Studying advanced computing at ANU with a focus on machine learning, and software engineering.
 - **AI and Computer Vision:** Exploring practical machine learning workflows, computer vision models, contrastive learning, and image analysis experiments.
@@ -103,7 +103,7 @@ Here are a few projects that represent what I am currently proud of, building, o
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong>AI, Data, and Experiments</strong><br />
+      <strong>ML, AI, and Data</strong><br />
       <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn&perline=4" alt="AI and data skills" />
     </td>
     <td width="50%" valign="top">
@@ -120,5 +120,5 @@ Here are a few projects that represent what I am currently proud of, building, o
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=u7663394&hide=scss,css,less,shell&langs_count=6)](https://github.com/u7663394/github-readme-stats)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=u7663394&theme=github-compact&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=u7663394&theme=github-compact&hide_border=true&color=41B883&point=525252" width="100%" />
 </p>
