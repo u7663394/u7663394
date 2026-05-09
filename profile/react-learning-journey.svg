@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="145" viewBox="0 0 495 145" role="img" aria-labelledby="title desc">
+  <title id="title">react-learning-journey</title>
+  <desc id="desc">Notes, demos, and experiments from Guochen Wang's React learning process.</desc>
+  <rect x="1" y="1" width="493" height="143" rx="8" fill="#F8FAFC" stroke="#D0D7DE"/>
+  <text x="24" y="34" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#0D9488">react-learning-journey</text>
+  <text x="24" y="64" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14" fill="#475569">
+    <tspan x="24" dy="0">React notes, small demos, and hands-on</tspan>
+    <tspan x="24" dy="20">experiments from continuous learning.</tspan>
+  </text>
+  <circle cx="29" cy="118" r="6" fill="#C6538C"/>
+  <text x="43" y="123" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#64748B">SCSS</text>
+  <text x="105" y="123" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#64748B">React learning</text>
+</svg>

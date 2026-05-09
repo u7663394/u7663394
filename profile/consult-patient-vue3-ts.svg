@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="145" viewBox="0 0 495 145" role="img" aria-labelledby="title desc">
+  <title id="title">consult-patient-vue3-ts</title>
+  <desc id="desc">A Vue 3 and TypeScript based mobile web application for patient consultation.</desc>
+  <rect x="1" y="1" width="493" height="143" rx="8" fill="#F8FAFC" stroke="#D0D7DE"/>
+  <text x="24" y="34" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#0D9488">consult-patient-vue3-ts</text>
+  <text x="24" y="64" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14" fill="#475569">
+    <tspan x="24" dy="0">A Vue 3 and TypeScript mobile web app</tspan>
+    <tspan x="24" dy="20">for patient consultation workflows.</tspan>
+  </text>
+  <circle cx="29" cy="118" r="6" fill="#41B883"/>
+  <text x="43" y="123" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#64748B">Vue</text>
+  <text x="93" y="123" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#64748B">TypeScript</text>
+</svg>

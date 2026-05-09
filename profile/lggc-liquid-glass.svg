@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="145" viewBox="0 0 495 145" role="img" aria-labelledby="title desc">
+  <title id="title">LGGC-liquid-glass</title>
+  <desc id="desc">A lightweight frontend library to create liquid glass UI effects.</desc>
+  <rect x="1" y="1" width="493" height="143" rx="8" fill="#F8FAFC" stroke="#D0D7DE"/>
+  <text x="24" y="34" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#0D9488">LGGC-liquid-glass</text>
+  <text x="24" y="64" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14" fill="#475569">
+    <tspan x="24" dy="0">A lightweight frontend library for liquid</tspan>
+    <tspan x="24" dy="20">glass UI effects, built for modern web UI.</tspan>
+  </text>
+  <circle cx="29" cy="118" r="6" fill="#E34C26"/>
+  <text x="43" y="123" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#64748B">HTML</text>
+  <text x="105" y="123" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#64748B">2 stars</text>
+</svg>

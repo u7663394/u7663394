@@ -5,10 +5,12 @@
     <img src="https://komarev.com/ghpvc/?username=u7663394&label=Profile%20Views&color=0D9488&style=flat-square" alt="Profile views" />
     <img src="https://img.shields.io/github/followers/u7663394?label=Followers&style=flat-square&color=0D9488&logo=github" alt="GitHub followers" />
     <img src="https://img.shields.io/badge/Location-Australia-0D9488?style=flat-square" alt="Location Australia" />
+    <img src="https://img.shields.io/badge/Techlauncher--LeafAnalyzer-Member-0D9488?style=flat-square&logo=github" alt="Techlauncher-LeafAnalyzer member" />
   </p>
 
   <p>
     <a href="https://github.com/u7663394"><img src="https://img.shields.io/badge/GitHub-u7663394-181717?style=flat-square&logo=github" alt="GitHub profile" /></a>
+    <a href="https://github.com/Techlauncher-LeafAnalyzer"><img src="https://img.shields.io/badge/Organization-Techlauncher--LeafAnalyzer-0D9488?style=flat-square&logo=github" alt="Techlauncher-LeafAnalyzer organization" /></a>
   </p>
 </div>
 
@@ -20,6 +22,7 @@ I'm **Guochen Wang** (`u7663394`), a developer based in **Australia** focused on
 
 - **Frontend Engineering:** Building Vue, React, and TypeScript applications for admin systems, mobile web apps, and product dashboards.
 - **UI Craft:** Exploring modern visual effects, responsive layouts, data visualization, and polished component behavior.
+- **Techlauncher-LeafAnalyzer:** Member of [**Techlauncher-LeafAnalyzer**](https://github.com/Techlauncher-LeafAnalyzer), contributing across all current organization projects.
 - **Learning in Public:** Keeping notes, demos, and experiments visible through small repositories and hands-on projects.
 - **Applied AI:** Experimenting with computer vision, contrastive learning, and financial trend analysis using Python-based workflows.
 
@@ -27,10 +30,27 @@ I'm **Guochen Wang** (`u7663394`), a developer based in **Australia** focused on
 
 ### Currently Focusing On
 
+- **Working with:** [**Techlauncher-LeafAnalyzer**](https://github.com/Techlauncher-LeafAnalyzer) - contributing to the organization's leaf analysis tools and supporting repositories.
 - **Working on:** [**LGGC-liquid-glass**](https://github.com/u7663394/LGGC-liquid-glass) - a lightweight frontend library for liquid glass UI effects.
 - **Building:** [**react-learning-journey**](https://github.com/u7663394/react-learning-journey) - notes, demos, and experiments from my React learning process.
 - **Exploring:** Vue 3 + TypeScript application patterns through admin, management, and mobile consultation projects.
 - **Learning:** Applied machine learning and computer vision through SimCLR and CNN edge prediction experiments.
+
+---
+
+### Techlauncher-LeafAnalyzer
+
+I am a member of [**Techlauncher-LeafAnalyzer**](https://github.com/Techlauncher-LeafAnalyzer) and participate in the development of all current projects in the organization:
+
+<p align="center">
+  <a href="https://github.com/Techlauncher-LeafAnalyzer">
+    <img src="./profile/techlauncher-leafanalyzer.svg" width="100%" alt="Techlauncher-LeafAnalyzer organization projects" />
+  </a>
+</p>
+
+- [**Leaf-Analyzer-Pattern-Generation**](https://github.com/Techlauncher-LeafAnalyzer/Leaf-Analyzer-Pattern-Generation) - JavaScript project for pattern generation in the leaf analysis workflow.
+- [**AprilTag-Overlay-Tool**](https://github.com/Techlauncher-LeafAnalyzer/AprilTag-Overlay-Tool) - JavaScript tool for overlaying AprilTag-related outputs.
+- [**Leaf-Curvature**](https://github.com/Techlauncher-LeafAnalyzer/Leaf-Curvature) - repository for leaf curvature analysis work.
 
 ---
 
@@ -40,19 +60,19 @@ Here are a few projects that represent what I am currently building and learning
 
 <p align="center">
   <a href="https://github.com/u7663394/LGGC-liquid-glass">
-    <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=u7663394&repo=LGGC-liquid-glass&hide_border=true&title_color=0D9488&icon_color=0D9488&text_color=475569&bg_color=00000000" alt="LGGC-liquid-glass repository card" />
+    <img height="145" src="./profile/lggc-liquid-glass.svg" alt="LGGC-liquid-glass repository card" />
   </a>
   <a href="https://github.com/u7663394/react-learning-journey">
-    <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=u7663394&repo=react-learning-journey&hide_border=true&title_color=0D9488&icon_color=0D9488&text_color=475569&bg_color=00000000" alt="react-learning-journey repository card" />
+    <img height="145" src="./profile/react-learning-journey.svg" alt="react-learning-journey repository card" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/u7663394/consult-patient-vue3-ts">
-    <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=u7663394&repo=consult-patient-vue3-ts&hide_border=true&title_color=0D9488&icon_color=0D9488&text_color=475569&bg_color=00000000" alt="consult-patient-vue3-ts repository card" />
+    <img height="145" src="./profile/consult-patient-vue3-ts.svg" alt="consult-patient-vue3-ts repository card" />
   </a>
   <a href="https://github.com/u7663394/CNN-Canny-Edge-Predictor">
-    <img height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=u7663394&repo=CNN-Canny-Edge-Predictor&hide_border=true&title_color=0D9488&icon_color=0D9488&text_color=475569&bg_color=00000000" alt="CNN-Canny-Edge-Predictor repository card" />
+    <img height="145" src="./profile/cnn-canny-edge-predictor.svg" alt="CNN-Canny-Edge-Predictor repository card" />
   </a>
 </p>
 
@@ -88,10 +108,6 @@ Here are a few projects that represent what I am currently building and learning
 ### GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=u7663394&show_icons=true&hide_border=true&rank_icon=github&title_color=0D9488&icon_color=0D9488&text_color=475569&bg_color=00000000" alt="Guochen Wang GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=u7663394&layout=compact&hide_border=true&title_color=0D9488&text_color=475569&bg_color=00000000" alt="Guochen Wang top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=u7663394&theme=github-compact&hide_border=true&color=0D9488&line=0D9488&point=0F766E" width="100%" alt="GitHub activity graph" />
+  <img height="170" src="./profile/stats.svg" alt="Guochen Wang GitHub stats" />
+  <img height="170" src="./profile/top-langs.svg" alt="Guochen Wang top languages" />
 </p>
