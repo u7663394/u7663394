@@ -115,8 +115,26 @@ Here are a few projects that represent what I am currently proud of, building, o
 
 ### 📊 GitHub Statistics
 
-[![Guochen's GitHub stats](https://github-stats-extended.vercel.app/api?username=u7663394&show=prs_merged&hide=issues&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=u7663394&hide=scss,css,less,shell&langs_count=6)](https://github.com/u7663394/github-readme-stats)
+<table align="center">
+  <tr>
+    <td width="60%" valign="top">
+      <img
+        src="https://github-stats-extended.vercel.app/api?username=u7663394&show=prs_merged&hide=issues&show_icons=true&hide_border=true"
+        alt="Guochen's GitHub stats"
+        width="100%"
+        height="250"
+      />
+    </td>
+    <td width="40%" valign="top">
+      <img
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=u7663394&hide=scss,css,less,shell&langs_count=6&hide_border=true"
+        alt="Top Languages"
+        width="100%"
+        height="250"
+      />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img
