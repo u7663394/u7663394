@@ -115,14 +115,20 @@ Here are a few projects that represent what I am currently proud of, building, o
 
 ### 📊 GitHub Statistics
 
-<table>
+<table
+  style="
+    margin: 0 auto;
+    border-collapse: collapse;
+    border: none;
+  "
+>
   <tr>
     <td width="50%" valign="top">
       <img
         src="https://github-stats-extended.vercel.app/api?username=u7663394&show=prs_merged&hide=issues&show_icons=true&hide_border=true"
         alt="Guochen's GitHub stats"
         width="100%"
-        height="200"
+        height="300"
       />
     </td>
     <td width="50%" valign="top">
@@ -130,7 +136,7 @@ Here are a few projects that represent what I am currently proud of, building, o
         src="https://github-stats-extended.vercel.app/api/top-langs/?username=u7663394&hide=scss,css,less,shell&langs_count=6&hide_border=true"
         alt="Top Languages"
         width="100%"
-        height="200"
+        height="300"
       />
     </td>
   </tr>
