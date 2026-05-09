@@ -9,10 +9,10 @@
 
   <p>
     <a href="https://github.com/u7663394"><img src="https://img.shields.io/badge/GitHub-u7663394-181717?style=flat-square&logo=github" alt="GitHub profile" /></a>
+    <a href="mailto:guochenwang710@gmail.com"><img src="https://img.shields.io/badge/Email-guochenwang710%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email guochenwang710@gmail.com" /></a>
     <a href="https://github.com/Techlauncher-LeafAnalyzer"><img src="https://img.shields.io/badge/Organization-Techlauncher--LeafAnalyzer-0D9488?style=flat-square&logo=github" alt="Techlauncher-LeafAnalyzer organization" /></a>
   </p>
 </div>
-[![Email](https://img.shields.io/badge/Email-guochenwang710%40gmail.com-red)](mailto:guochenwang710@gmail.com)
 
 ---
 
@@ -56,25 +56,35 @@ I am a member of [**Techlauncher-LeafAnalyzer**](https://github.com/Techlauncher
 
 ### Featured Projects
 
-Here are a few projects that represent what I am currently pround of and building or learning:
+Here are a few projects that represent what I am currently proud of, building, or learning:
 
-<p align="center">
-  <a href="https://github.com/u7663394/LGGC-liquid-glass">
-    <img height="145" src="./profile/lggc-liquid-glass.svg" alt="LGGC-liquid-glass repository card" />
-  </a>
-  <a href="https://github.com/u7663394/react-learning-journey">
-    <img height="145" src="./profile/react-learning-journey.svg" alt="react-learning-journey repository card" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/u7663394/consult-patient-vue3-ts">
-    <img height="145" src="./profile/consult-patient-vue3-ts.svg" alt="consult-patient-vue3-ts repository card" />
-  </a>
-  <a href="https://github.com/u7663394/CNN-Canny-Edge-Predictor">
-    <img height="145" src="./profile/cnn-canny-edge-predictor.svg" alt="CNN-Canny-Edge-Predictor repository card" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/u7663394/LGGC-liquid-glass">
+        <img src="./profile/lggc-liquid-glass.svg" width="100%" alt="LGGC-liquid-glass repository card" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/u7663394/consult-patient-vue3-ts">
+        <img src="./profile/consult-patient-vue3-ts.svg" width="100%" alt="consult-patient-vue3-ts repository card" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/u7663394/CNN-Canny-Edge-Predictor">
+        <img src="./profile/cnn-canny-edge-predictor.svg" width="100%" alt="CNN-Canny-Edge-Predictor repository card" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/u7663394/react-learning-journey">
+        <img src="./profile/react-learning-journey.svg" width="100%" alt="react-learning-journey repository card" />
+      </a>
+    </td>
+    
+  </tr>
+</table>
 
 ---
 
