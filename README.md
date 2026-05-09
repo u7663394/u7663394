@@ -82,7 +82,6 @@ Here are a few projects that represent what I am currently proud of, building, o
         <img src="./profile/react-learning-journey.svg" width="100%" alt="react-learning-journey repository card" />
       </a>
     </td>
-    
   </tr>
 </table>
 
@@ -138,6 +137,6 @@ Here are a few projects that represent what I am currently proud of, building, o
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=u7663394&theme=github-compact&hide_border=true&color=369E6F&point=2F2F2F" width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=u7663394&theme=github-compact&hide_border=true&color=369E6F&point=525252" width="100%"
   />
 </p>
