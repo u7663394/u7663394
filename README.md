@@ -103,7 +103,7 @@ Here are a few projects that represent what I am currently proud of, building, o
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong>ML, AI, and Data</strong><br />
+      <strong>ML, AI, and CV</strong><br />
       <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,anaconda,&perline=4" alt="AI and data skills" />
     </td>
     <td width="50%" valign="top">
