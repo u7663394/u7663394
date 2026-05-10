@@ -125,8 +125,7 @@ Here are a few projects that represent what I am currently proud of, building, o
       />
     </td>
     <td width="40%" valign="top">
-      <img
-        src="https://github-stats-extended.vercel.app/api/top-langs/?username=u7663394&hide=scss,css,less,shell&langs_count=6&hide_border=true"
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=u7663394&hide=scss,css,less,shell&langs_count=6&hide_border=true"
         alt="Top Languages"
         width="100%"
         height="250"
