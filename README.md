@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=900&color=41B883&center=true&vCenter=true&width=860&lines=Hi%2C+I'm+Guochen+Wang;ANU+Advanced+Computing+(Honours);Machine+Learning+Specialisation;Exploring+AI+and+Computer+Vision;Frontend+Development+Enthusiast" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2900&pause=900&color=41B883&center=true&vCenter=true&width=860&lines=Hi%2C+I'm+Guochen+Wang;ANU+Advanced+Computing+(Honours);Machine+Learning+Specialisation;Exploring+AI+and+Computer+Vision;Frontend+Development+Enthusiast" alt="Typing introduction" />
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=u7663394&label=Profile%20Views&color=41B883&style=flat-square" alt="Profile views" />
