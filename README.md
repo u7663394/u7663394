@@ -118,14 +118,14 @@ Here are a few projects that represent what I am currently proud of, building, o
   <tr>
     <td width="60%" valign="top">
       <img
-        src="https://github-stats-extended.vercel.app/api?username=u7663394&show=prs_merged&hide=issues&show_icons=true&hide_border=true"
+        src="https://github-stats-extended.vercel.app/api?username=u7663394&show=prs_merged&hide=issues&show_icons=true&hide_border=true&v=20260511"
         alt="Guochen's GitHub stats"
         width="100%"
         height="250"
       />
     </td>
     <td width="40%" valign="top">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=u7663394&hide=scss,css,less,shell&langs_count=6&hide_border=true"
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=u7663394&hide=scss,css,less,shell&langs_count=6&hide_border=true&v=20260511"
         alt="Top Languages"
         width="100%"
         height="250"
