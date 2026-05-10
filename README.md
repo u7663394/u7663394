@@ -44,7 +44,7 @@ I am a member of [**Techlauncher-LeafAnalyzer**](https://github.com/Techlauncher
 
 <p align="center">
   <a href="https://github.com/Techlauncher-LeafAnalyzer">
-    <img src="./profile/techlauncher-leafanalyzer.svg" width="100%" alt="Techlauncher-LeafAnalyzer organization projects" />
+    <img src="./assets/techlauncher-leafanalyzer.svg" width="100%" alt="Techlauncher-LeafAnalyzer organization projects" />
   </a>
 </p>
 
@@ -62,24 +62,24 @@ Here are a few projects that represent what I am currently proud of, building, o
   <tr>
     <td width="50%">
       <a href="https://github.com/u7663394/LGGC-liquid-glass">
-        <img src="./profile/lggc-liquid-glass.svg" width="100%" alt="LGGC-liquid-glass repository card" />
+        <img src="./assets/lggc-liquid-glass.svg" width="100%" alt="LGGC-liquid-glass repository card" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/u7663394/consult-patient-vue3-ts">
-        <img src="./profile/consult-patient-vue3-ts.svg" width="100%" alt="consult-patient-vue3-ts repository card" />
+        <img src="./assets/consult-patient-vue3-ts.svg" width="100%" alt="consult-patient-vue3-ts repository card" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <a href="https://github.com/u7663394/CNN-Canny-Edge-Predictor">
-        <img src="./profile/cnn-canny-edge-predictor.svg" width="100%" alt="CNN-Canny-Edge-Predictor repository card" />
+        <img src="./assets/cnn-canny-edge-predictor.svg" width="100%" alt="CNN-Canny-Edge-Predictor repository card" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/u7663394/react-learning-journey">
-        <img src="./profile/react-learning-journey.svg" width="100%" alt="react-learning-journey repository card" />
+        <img src="./assets/react-learning-journey.svg" width="100%" alt="react-learning-journey repository card" />
       </a>
     </td>
   </tr>
