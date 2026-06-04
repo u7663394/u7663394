@@ -52,6 +52,7 @@ I am a member of [**Techlauncher-LeafAnalyzer**](https://github.com/Techlauncher
 - [**Leaf-Analyzer-Pattern-Generation**](https://github.com/Techlauncher-LeafAnalyzer/Leaf-Analyzer-Pattern-Generation) - Web project for pattern generation in the leaf analysis workflow.
 - [**AprilTag-Overlay-Tool**](https://github.com/Techlauncher-LeafAnalyzer/AprilTag-Overlay-Tool) - JavaScript web tool for overlaying AprilTag image outputs.
 - [**Leaf-Curvature**](https://github.com/Techlauncher-LeafAnalyzer/Leaf-Curvature) - ML project for leaf curvature analysis.
+- [**Hyperspectral-Image-Inspector**](https://github.com/Techlauncher-LeafAnalyzer/Hyperspectral-Image-Inspector) - Python application for inspecting hyperspectral image data.
 
 ---
 
