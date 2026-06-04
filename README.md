@@ -84,6 +84,13 @@ Here are a few projects that represent what I am currently proud of, building, o
       </a>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/u7663394/Frontend-skills-compare">
+        <img src="./assets/frontend-skills-compare.svg" width="50%" alt="Frontend-skills-compare repository card" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 ---
