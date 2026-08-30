@@ -145,6 +145,8 @@ Here are a few projects that represent what I am currently proud of, building, o
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=u7663394&theme=github-compact&hide_border=true&color=369E6F&point=525252&v=20260830" width="100%"
+    src="https://raw.githubusercontent.com/u7663394/u7663394/main/assets/activity-graph.svg?v=20260830"
+    alt="Guochen's GitHub activity graph"
+    width="100%"
   />
 </p>
