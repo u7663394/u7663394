@@ -33,6 +33,10 @@ jobs:
           output_path: assets/activity-graph.svg
           token: ${{ github.token }}
 
+      - name: Normalize generated SVG
+        shell: bash
+        run: perl -pi -e 's/[ \t]+$//' assets/activity-graph.svg
+
       - name: Update README cache date
         shell: bash
         run: |

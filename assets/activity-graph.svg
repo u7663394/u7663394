@@ -23,7 +23,7 @@
                     font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
                     user-select: none;
                 }
-                
+
     .ct-label {
       fill: #369E6F;
       color: #369E6F;
@@ -133,27 +133,27 @@
     .ct-label .ct-horizontal {
       transform: rotate(-90deg)
     }
-    
-                
+
+
         @keyframes blink {
             from {
                 opacity: 0;
-                transform:translateX(-20px); 
+                transform:translateX(-20px);
             }
             to {
                 opacity:1;
                 transform: translateX(0);
             }
         }
-    
-                
+
+
         @keyframes dash {
             to {
                 stroke-dashoffset: 0;
             }
         }
-    
-    
+
+
             </style>
 
             <foreignObject x="0" y="0" width="1200" height="50">
