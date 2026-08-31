@@ -33,9 +33,9 @@ I'm **Guochen Wang** (`u7663394`), an **ANU Bachelor of Advanced Computing (Hono
 - **Capstone project:** [**Techlauncher-LeafAnalyzer**](https://github.com/Techlauncher-LeafAnalyzer) - contributing to the organization's leaf analysis tools and supporting repositories through ANU TechLauncher.
 - **Working on:** [**LGGC-liquid-glass**](https://github.com/u7663394/LGGC-liquid-glass) - a lightweight frontend library for liquid glass UI effects.
 - **Comparing:** [**Frontend-skills-compare**](https://github.com/u7663394/Frontend-skills-compare) - comparing and exploring different frontend skills.
-- **Building:** 
-  - [**react-learning-journey**](https://github.com/u7663394/react-learning-journey) - notes, demos, and experiments from my React learning process. 
-  - [**fastapi-learning-journey**](https://github.com/u7663394/fastapi-learning-journey) - notes, demos, and experiments from my FastAPI learning process. 
+- **Building:**
+  - [**react-learning-journey**](https://github.com/u7663394/react-learning-journey) - notes, demos, and experiments from my React learning process.
+  - [**fastapi-learning-journey**](https://github.com/u7663394/fastapi-learning-journey) - notes, demos, and experiments from my FastAPI learning process.
 - **Exploring:** Vue 3 + TypeScript application patterns through admin, management, and mobile projects with frontend passion.
 - **Learning:** Applied machine learning and computer vision through deep learning like SimCLR and CNN edge prediction experiments.
 
